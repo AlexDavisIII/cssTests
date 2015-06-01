@@ -1,9 +1,9 @@
 body{
-  font-size: 16px; //sets default size for all font. Used as relative measure.
+	font-size: 16px; /*Sets font-size to 16 base size*/
+	background: red;
 }
 
-@font-face
-{
+@font-face{
 	font-family: 'Titillium Web', sans-serif;
 	src: url(http://fonts.googleapis.com/css?family=Titillium+Web);
 }
